@@ -1,17 +1,18 @@
-# Name of project
+# My Personal Portfolio
 
-> A longer description
+> This is my personal portfolio website created to showcase my work, my projects
+> and to share my experience as an Aspiring Junior Web Developer. This site is
+> built using HTML, CSS.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [My Personal Portfolio](#my-personal-portfolio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Code Examples](#code-examples)
-  - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
@@ -30,11 +31,10 @@
 
 ## Technologies
 
-- Node 14.16.0
+- HTML
+- CSS
 - VSC code
-- JavaScript
-- ...
-- ...
+- npm
 
 ## Setup
 
@@ -47,30 +47,17 @@
 console.log("Hello World");
 ```
 
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
 ## Status
 
 Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
-
 ## Contact
 
-By [Name]
+| Name                                           |
+| ---------------------------------------------- |
+| [Preethi] (<https://github.com/PreethiTapati>) |
 
 ## Instructions for use
 

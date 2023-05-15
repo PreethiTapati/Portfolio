@@ -1,63 +1,63 @@
-# My Personal Portfolio
+# My Personal Portfolio 📨
 
-> This is my personal portfolio website created to showcase my work, my projects
-> and to share my experience as an Aspiring Junior Web Developer. This site is
-> built using HTML, CSS.
+> This is my personal portfolio website built using HTML, CSS. The main aim of
+> the website is showcases my skills and projects as an aspiring junior
+> front-end developer, including my education, and previous work experience.
 
-## Table of contents
+## Table of contents 📚
 
-- [My Personal Portfolio](#my-personal-portfolio)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
+- [My Personal Portfolio 📨](#my-personal-portfolio-)
+  - [Table of contents 📚](#table-of-contents-)
+  - [General info ℹ](#general-info-ℹ)
+  - [Screenshots 📷](#screenshots-)
+  - [Technologies 👩‍💻](#technologies-)
+  - [Setup 🖥](#setup-)
+  - [Code Examples 👩‍💻](#code-examples-)
+  - [Status 🚀](#status-)
+  - [Inspiration 🌟](#inspiration-)
+  - [Contact 📱](#contact-)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-## General info
+## General info ℹ
 
 > A short description
 
-## Screenshots
+## Screenshots 📷
 
 ![Example screenshot](./planning/screenshot.jpg)
 
-## Technologies
+## Technologies 👩‍💻
 
 - HTML
 - CSS
 - VSC code
 - npm
 
-## Setup
+## Setup 🖥
 
 - `npm run start`
 
-## Code Examples
+## Code Examples 👩‍💻
 
 ```js
 // the hello world program
 console.log("Hello World");
 ```
 
-## Status
+## Status 🚀
 
 Project is: _in progress_
 
-## Inspiration
+## Inspiration 🌟
 
-## Contact
+## Contact 📱
 
-| Name                                           |
-| ---------------------------------------------- |
-| [Preethi] (<https://github.com/PreethiTapati>) |
+| Name           |                                      |
+| -------------- | ------------------------------------ |
+| Preethi Tapati | (<https://github.com/PreethiTapati>) |
 
 ## Instructions for use
 

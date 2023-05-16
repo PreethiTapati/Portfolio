@@ -1,55 +1,94 @@
 # Project Name
 
-<!-- describe your project -->
+This is strategy of portfolio website
 
----
+## Logo
 
-## Setup
+- As a user i want to see the name of the portfolio on top of the page.
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+## Navigation
 
----
+- As a user I want to see navigation bar which takes me to different sections of
+  the page.
 
-<!-- copy this section once for each must-have user story -->
+### HTML
 
-## user story
+- add nav add ul and inside ul li add a inside li tags.
 
-<!-- each issue created from this section will have the `for: user story` label -->
+#### CSS
 
-> "as a ... i can ... so that ..."
+- add class nav-link to a
+- add class nav-button to button
 
-<!-- write any extra notes or description -->
+## Title
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- As a user I want to see the title of the page
 
-### Logic: user story
+### HTML
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add header and div tag
+- add nav tag add ul ,li tag
+- add h1 tag for the title.
 
-### Interface: user story
+### CSS
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add class to header
+- add class to nav-ul,li to the div
+- add class header-title to the h1
 
-### Interaction: user story
+## Introduction
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+As a user I want to see info section
 
-### Documentation: user story
+### HTML
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add main, section, h2 , div tag
+
+### CSS
+
+make display flex in main add class section-about to section add border-top,
+color,font-size, font-family add class section-about-h2
+
+## Work experience
+
+- As a user I want to see work experience
+
+### HTML
+
+- add section, h3 , p and div tags
+
+### CSS
+
+- add class section-experience to section
+- add class experience- title to h3
+- add class experience-description to div
+
+## Skills
+
+- As a user I want to see yhe section with skills
+
+### HTML
+
+- add section, h3, div, img, p tags
+
+### CSS
+
+- add class section-skills to section
+- add class title-skills to h3
+- add class images-skills
+
+## Contact
+
+- As a user i want to see contact info and social media links.
+
+### HTML
+
+- add two div tags, h3 ,p tags
+- add form, div, label, input add button
+
+### CSS
+
+- add class contact-section to div
+- add class contact-title to h3
+- add class contact-description to p
+- add class form-btn to button

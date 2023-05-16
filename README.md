@@ -1,76 +1,63 @@
-# Name of project
+# My Personal Portfolio 📨
 
-> A longer description
+> This is my personal portfolio website built using HTML, CSS. The main aim of
+> the website is showcases my skills and projects as an aspiring junior
+> front-end developer, including my education, and previous work experience.
 
-## Table of contents
+## Table of contents 📚
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
-  - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
+- [My Personal Portfolio 📨](#my-personal-portfolio-)
+  - [Table of contents 📚](#table-of-contents-)
+  - [General info ℹ](#general-info-ℹ)
+  - [Screenshots 📷](#screenshots-)
+  - [Technologies 👩‍💻](#technologies-)
+  - [Setup 🖥](#setup-)
+  - [Code Examples 👩‍💻](#code-examples-)
+  - [Status 🚀](#status-)
+  - [Inspiration 🌟](#inspiration-)
+  - [Contact 📱](#contact-)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-## General info
+## General info ℹ
 
 > A short description
 
-## Screenshots
+## Screenshots 📷
 
 ![Example screenshot](./planning/screenshot.jpg)
 
-## Technologies
+## Technologies 👩‍💻
 
-- Node 14.16.0
+- HTML
+- CSS
 - VSC code
-- JavaScript
-- ...
-- ...
+- npm
 
-## Setup
+## Setup 🖥
 
 - `npm run start`
 
-## Code Examples
+## Code Examples 👩‍💻
 
 ```js
 // the hello world program
 console.log("Hello World");
 ```
 
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
-## Status
+## Status 🚀
 
 Project is: _in progress_
 
-## Inspiration
+## Inspiration 🌟
 
-Project by freeCodeCamp.org
+## Contact 📱
 
-## Contact
-
-By [Name]
+| Name           |                                      |
+| -------------- | ------------------------------------ |
+| Preethi Tapati | (<https://github.com/PreethiTapati>) |
 
 ## Instructions for use
 

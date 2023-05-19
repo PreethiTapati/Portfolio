@@ -23,11 +23,12 @@
 
 ## General info ℹ
 
-> A short description
+> A website of portfolio build to give small introduction about myself, work
+> using agile methodology, html,css.
 
 ## Screenshots 📷
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./public/images/screenshot-portfolio.jpg)
 
 ## Technologies 👩‍💻
 
@@ -42,16 +43,47 @@
 
 ## Code Examples 👩‍💻
 
-```js
-// the hello world program
-console.log("Hello World");
+```html
+<div class="contact-form">
+  <form action="">
+    <input type="name" placeholder="Your Name" required />
+    <input type="email" placeholder="Your Email" required />
+    <input type="number" placeholder="Your Mobile Number" required />
+    <textarea
+      name=""
+      id=""
+      cols="35"
+      rows="10"
+      placeholder="How Can I Help You"
+      required
+    ></textarea>
+    <input type="submit" value="Send Message" class="submit" required />
+  </form>
+</div>
+```
+
+```css
+.top i {
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 15px;
+  color: var(--text-color);
+  background: var(--main-color);
+}
 ```
 
 ## Status 🚀
 
-Project is: _in progress_
+Project is: _Done_
 
 ## Inspiration 🌟
+
+- Project code inspired by
+
+1. angela (app brewery)
+2. codehal you tube channel
+3. code with harry
+4. itech eazy code
 
 ## Contact 📱
 

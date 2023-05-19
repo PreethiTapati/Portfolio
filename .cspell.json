@@ -3,10 +3,14 @@
   "words": [
     "Bilde",
     "Christiaan",
+    "codehal",
     "customizability",
+    "designn",
+    "eazy",
     "Excalidraw",
     "HackYourFuture",
     "HackYourFutureBelgium",
+    "itech",
     "Lant",
     "Nepo",
     "Ponomarev",
@@ -16,8 +20,7 @@
     "wireframe",
     "Wireframes",
     "Yodiz",
-    "Zepel",
-    "designn"
+    "Zepel"
   ],
   "ignorePaths": [
     "node_modules/**",

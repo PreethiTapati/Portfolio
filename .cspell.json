@@ -6,21 +6,28 @@
     "codehal",
     "customizability",
     "designn",
-    "eazy",
+    "eazy"
     "Excalidraw",
+    "firstname",
     "HackYourFuture",
     "HackYourFutureBelgium",
     "itech",
+    "jects",
     "Lant",
+    "navlist",
     "Nepo",
     "Ponomarev",
+    "Pree",
     "Preethi",
+    "stylelint",
     "Tapati",
     "Verwijs",
     "wireframe",
     "Wireframes",
     "Yodiz",
     "Zepel"
+  
+    "visting"
   ],
   "ignorePaths": [
     "node_modules/**",

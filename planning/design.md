@@ -2,7 +2,7 @@
 
 ## Project's design overview
 
-> an overview of your project's design ![Home](../planning/design.jpg)
+> an overview of your project's design ![Home](../planning/designn.svg)
 
 ## Wireframe(s)
 

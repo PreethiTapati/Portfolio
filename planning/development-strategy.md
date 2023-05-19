@@ -36,7 +36,7 @@ This is strategy of portfolio website
 - add class to nav-ul,li to the div
 - add class header-title to the h1
 
-## Introduction
+## About me
 
 As a user I want to see info section
 
@@ -49,23 +49,24 @@ As a user I want to see info section
 make display flex in main add class section-about to section add border-top,
 color,font-size, font-family add class section-about-h2
 
-## Work experience
+## Skills
 
-- As a user I want to see work experience
+- As a user I want to see the section of skills
 
 ### HTML
 
-- add section, h3 , p and div tags
+- add section, h3 , p, img and div tags
 
 ### CSS
 
-- add class section-experience to section
-- add class experience- title to h3
-- add class experience-description to div
+- add class section-skills to section
+- add class skills- title to h3
+- add class skills -description to div
+- add class images-skills
 
-## Skills
+## projects
 
-- As a user I want to see yhe section with skills
+- As a user I want to see the section with projects
 
 ### HTML
 
@@ -73,11 +74,12 @@ color,font-size, font-family add class section-about-h2
 
 ### CSS
 
-- add class section-skills to section
-- add class title-skills to h3
-- add class images-skills
+- add class section-projects to section
+- add class title-projects to h3
+- add class images-projects
+- make display flex in the main and class to the img
 
-## Contact
+## Contact me
 
 - As a user i want to see contact info and social media links.
 

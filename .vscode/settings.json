@@ -98,5 +98,21 @@
 
   // Enable path suggestoins while writing links in markdown files
   "markdown.suggest.paths.enabled": true,
-  "cSpell.words": ["Preethi", "Todos", "Verwijs"]
+  "cSpell.words": [
+    "Bilde",
+    "Christiaan",
+    "codehal",
+    "eazy",
+    "Excalidraw",
+    "firstname",
+    "itech",
+    "jects",
+    "navlist",
+    "Pree",
+    "Preethi",
+    "stylelint",
+    "Tapati",
+    "Todos",
+    "Verwijs"
+  ]
 }

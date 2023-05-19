@@ -6,6 +6,7 @@
     "customizability",
     "designn",
     "Excalidraw",
+    "firstname",
     "HackYourFuture",
     "HackYourFutureBelgium",
     "jects",
@@ -21,7 +22,8 @@
     "wireframe",
     "Wireframes",
     "Yodiz",
-    "Zepel"
+    "Zepel",
+    "visting"
   ],
   "ignorePaths": [
     "node_modules/**",
